@@ -2,7 +2,7 @@
 
 <img align="left" alt="Closeted Skeleton#1678" width="30px" src="https://simpleicons.org/icons/discord.svg" />
 
-**Closeted Skeleton#1678**
+Closeted Skeleton#1678
 
 <br/>
 
