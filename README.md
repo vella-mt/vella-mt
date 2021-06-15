@@ -6,13 +6,10 @@ clackclackclack
 <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/96/000000/css3.png" />
 <img align="left" alt="Javascript" width="40px" src="https://img.icons8.com/color/96/000000/javascript.png" />
 
-<br/><br/>
-
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/96/000000/python.png" />
-<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/96/000000/c-programming.png" />
 
 <br/><br/>
 
-### ⚡ GitHub Stats ⚡
+### 💀 GitHub Stats 💀
 ![My github stats](https://github-readme-stats.vercel.app/api?username=closetedskeleton&count_private=true&show_icons=true&theme=graywhite)
