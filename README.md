@@ -13,6 +13,3 @@ clackclackclack
 
 ### 💀 GitHub Stats 💀
 ![My github stats](https://github-readme-stats.vercel.app/api?username=closetedskeleton&count_private=true&show_icons=true&theme=graywhite)
-
-
-<sub>Profile pic © Dylan Solomon<sub/>
