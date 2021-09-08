@@ -12,4 +12,4 @@ clackclackclack
 <br/><br/>
 
 ### 💀 GitHub Stats 💀
-![My github stats](https://github-readme-stats.vercel.app/api?username=closetedskeleton&count_private=true&show_icons=true&theme=graywhite)
+![My github stats](https://github-readme-stats.vercel.app/api?username=vella-mt&count_private=true&show_icons=true&theme=graywhite)
