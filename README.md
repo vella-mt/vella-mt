@@ -1,6 +1,9 @@
-clackclackclack
+𝐤𝐞𝐲𝐛𝐨𝐚𝐫𝐝 𝐢𝐧 𝐦𝐲 𝐡𝐚𝐧𝐝𝐬, 𝐫𝐚𝐦𝐞𝐧 𝐢𝐧 𝐦𝐲 𝐛𝐫𝐚𝐢𝐧𝐬 ラーメンの頭脳
 
-### 💀 Languages 💀
+
+---
+
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
 <img align="left" alt="HTML5" width="40px" src="https://img.icons8.com/color/96/000000/html-5--v1.png" />
 <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/96/000000/css3.png" />
@@ -11,5 +14,8 @@ clackclackclack
 
 <br/><br/>
 
-### 💀 GitHub Stats 💀
+### 𝙵𝚊𝚗𝚌𝚢 𝚂𝚝𝚊𝚝𝚜
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vella-mt&count_private=true&show_icons=true&theme=graywhite)
+
+
+<sub>Profile Pic © vp trinidad</sub>
