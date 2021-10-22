@@ -11,7 +11,6 @@
 
 <br/><br/>
 
-### 𝙵𝚊𝚗𝚌𝚢 𝚂𝚝𝚊𝚝𝚜
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vella-mt&count_private=true&show_icons=true&theme=graywhite)
 
 
